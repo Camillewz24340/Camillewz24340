@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome on my profile !
 
-<!--
-**Camillewz24340/Camillewz24340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <ins>Presentation</ins>
 
-Here are some ideas to get you started:
+Hi everybody, i'm a french teen and i like coding, music and videogames ! I mainly code in Python :) (simple, lots of librairies... y'know).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My favorite music styles:\
+```
+K-pop                    ❤❤❤❤❤
+Rap                      ❤❤❤❤
+Pop                      ❤❤❤❤
+Hard ROCK!!!             ❤❤❤
+```
+
+## <ins>My skills</ins>
+
+
+```
+Python                   🟦🟦🟦🟦⬜     Pretty good !
+HTML/CSS/JS              🟦🟦🟦⬜⬜     Good at styling :)
+Lua                      🟦🟦⬜⬜⬜     For Roblox
+C++                      🟦⬜⬜⬜⬜     Hard !!!
+```
