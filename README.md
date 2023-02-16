@@ -28,3 +28,5 @@ C++                      🟦⬜⬜⬜⬜     Hard !!!
 [![trophy](https://github-profile-trophy.vercel.app/?username=Camillewz24340&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 </details>
+
+[Discord](https://discord.gg/rwBC6Bba)
