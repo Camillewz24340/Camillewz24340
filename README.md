@@ -21,3 +21,10 @@ HTML/CSS/JS              🟦🟦🟦⬜⬜     Good at styling :)
 Lua                      🟦🟦⬜⬜⬜     For Roblox
 C++                      🟦⬜⬜⬜⬜     Hard !!!
 ```
+
+<details>
+<summary> My stats </summary>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Camillewz24340&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</details>
